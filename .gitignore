@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FastAPI Cloud local link
+.fastapicloud/
+
+# Environment & OS files
+.env
+.DS_Store
